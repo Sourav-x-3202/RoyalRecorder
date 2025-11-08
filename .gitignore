@@ -1,0 +1,77 @@
+# ========================================
+# 🐍 Python
+# ========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.tmp
+*.bak
+
+# ========================================
+# 🌐 Virtual Environment
+# ========================================
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+.conda/
+
+# ========================================
+# 🎬 FFmpeg / Recordings / Output
+# ========================================
+*.mp4
+*.avi
+*.wav
+*.mov
+*.mkv
+*.flv
+*.webm
+*.gif
+*.jpg
+*.png
+*.jpeg
+
+# Temp / Cache
+tmp_*/
+temp/
+cache/
+*.tmp_video.*
+*.tmp_audio.*
+
+# ========================================
+# 🧱 System Files
+# ========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================================
+# 💻 IDE / Editor
+# ========================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ========================================
+# ⚙️ Build / Dist
+# ========================================
+build/
+dist/
+*.egg-info/
+
+# ========================================
+# ⚙️ Config Files
+# ========================================
+*.cfg
+*.ini
+
+# Private configuration (contains local camera URL)
+config.json
+
+# Ignore local ffmpeg binary
+ffmpeg.exe
