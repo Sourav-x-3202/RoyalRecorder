@@ -372,4 +372,4 @@ Feel free to use, modify, or distribute with attribution.
 ---
 
 
-<p align="center"> <b>Royal Recorder</b><br> <i>“Crafted with precision. Recorded with pride.”</i> 🎞️ </p> 
+<p align="center"> <b>Royal Recorder</b><br> <i>“Crafted with precision. Recorded with pride.”</i> </p> 
